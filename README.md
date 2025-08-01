@@ -1,7 +1,6 @@
 # Data Management for Big Data
 
-The exercise for the Data Management for Big Data exam focused on imple-
-menting and optimizing two specific query schemas on the TPC-H bench-
+The exercise for the Data Management for Big Data exam focused on implementing and optimizing two specific query schemas on the TPC-H bench-
 mark using PostgreSQL: Query Schema 1, which analyzes export/import
 revenue values, and Query Schema 3, which calculates returned item losses.
 These query schemas involved complex aggregations and calculations per-
